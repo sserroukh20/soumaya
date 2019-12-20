@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>Insert web page title here</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="tswtabs.css">
+  </head>
+  <body>
+    <div id="tswcontainer">
+      <div id="tswcontent">
+        <div id="tswcontproper">
+          <!-- start of content column: insert your content here -->
+          <div id="tswcsstabs">
+            <ul>
+              <li><a href="infancia.html">Infancia&nbsp; y estudios en Polonia.
+                  <br>
+                </a></li>
+              <li><a href="primeros.html">Primeros años en Francia.</a></li>
+              <li><a href="muerte.html">Muerte.<br>
+                </a></li>
+            </ul>
+          </div>
+          <br>
+          <h1>Marie Curie </h1>
+          <img src="https://s4.eestatic.com/2017/08/18/ciencia/investigacion/Premios_Nobel-Amor-Famosos-Nobel_de_Fisica-Investigacion_239986847_43435785_1024x576.jpg"
+            widht="150">
+          <div class="mw-parser-output">
+            <h2 id="anos-francia">Primeros años en Francia.</h2>
+            <p>A finales de 1891 se fue a Francia. En París, Maria (o Marie,
+              como sería conocida en ese país) pasó un tiempo en un hospedaje
+              con su hermana y su cuñado antes de alquilar un buhardilla en el
+              Barrio Latino, cercano a la universidad, y prosiguió con sus
+              estudios de física, química y matemáticas en la Universidad de
+              París, donde se había inscrito a finales de 1891. Aunque había
+              adquirido conocimientos de manera autodidacta, tuvo que esforzarse
+              para mejorar su comprensión del idioma francés, las matemáticas y
+              la física para estar al nivel de sus compañeros. Entre los 776
+              estudiantes de la Facultad de Ciencias, en enero de 1895, solo
+              había 27 mujeres. Sus catedráticos fueron Paul Appell, Henri
+              Poincaré y Gabriel Lippmann, científicos reconocidos en esa época.
+              Subsistió con escasos recursos y desmayos por el hambre. Estudiaba
+              durante el día y daba clases por la noche, apenas ganando para su
+              subsistencia. En 1893 recibió su licenciatura en Física y comenzó
+              a trabajar en un laboratorio industrial del profesor Lippmann.
+              Entre tanto, continuó sus estudios en la Universidad de París y
+              obtuvo un segundo título en 1894. Para financiar su educación
+              universitaria, aceptó una beca de la Fundación Alexandrowitch, que
+              le fue otorgada gracias a una conocida llamada Jadwiga Dydyńska.
+              Durante su estadía en la capital francesa desarrolló un especial
+              interés por el teatro aficionado (théâtre amateur). En una de las
+              actuaciones de La Pologne, qui brise les chaînes (lit., Polonia,
+              la que rompe cadenas) se hizo amiga del pianista Ignacy Jan
+              Paderewski.</p>
+            <p>Inició su carrera científica en 1894 con una investigación de las
+              propiedades magnéticas de diversos aceros, por encargo de la
+              Sociedad para el Fomento de la Industria Nacional (Société
+              d'encouragement pour l'industrie nationale). En ese mismo año,
+              conoció a Pierre Curie. El interés que ambos tenían por la ciencia
+              los unió. En ese momento, Pierre era instructor en la Escuela
+              Superior de Física y de Química Industriales de París (ESPCI).
+              Fueron presentados por el físico polaco Józef Kowalski-Wierusz,
+              quien se había enterado de que Marie estaba buscando un
+              laboratorio con mayor espacio de trabajo, algo a lo que
+              Kowalski-Wierusz creyó que Pierre tenía acceso. Aunque este último
+              no tenía un gran laboratorio, pudo encontrar un lugar de trabajo
+              más grande en la ESPCI para que ella pudiera trabajar. Imagen
+              tomada durante su trabajo conjunto en el laboratorio. </p>
+            <p>Desarrollaron una fuerte amistad en el laboratorio, hasta el
+              punto que Pierre le propuso matrimonio, pero al principio Marie no
+              aceptó ya que tenía intención de volver a Polonia. Sin embargo,
+              Pierre declaró que estaba dispuesto a seguirla a ese país, incluso
+              si eso significaba tener que enseñar francés para subsistir.
+              Mientras tanto, Marie regresó a Varsovia para las vacaciones de
+              verano de 1894, donde visitó a su familia. Siguió trabajando
+              durante un año en Polonia con la ilusión de que conseguiría un
+              puesto académico de su especialidad científica en su país natal,
+              pero la Universidad Jaguelónica de Cracovia denegó su contratación
+              porque era mujer. Una carta de Pierre la convenció de regresar a
+              París para obtener un doctorado. Para motivarla, en la misiva
+              comentó que había investigado sobre el magnetismo, recibido su
+              doctorado en marzo de 1895 y promovido a profesor de la ESPCI. De
+              vuelta a Francia, Marie y Pierre el 26 de julio de 1895
+              contrajeron matrimonio en Sceaux en una boda sencilla y sin
+              ceremonia religiosa en la que, entre algunos amigos y la familia
+              inmediata, les dieron dinero en lugar de obsequios. Marie vistió
+              un traje azul oscuro, el mismo que durante muchos años usó como
+              traje de laboratorio. Tiempo después, Marie dijo que había
+              encontrado un nuevo amor, socio y colaborador científico en quien
+              podía confiar. </p>
+            <!-- end of content column: put your content above this line --> </div>
+        </div>
+      </div>
+      <div id="tswsidecol">
+        <div id="tswsideproper">
+          <!-- start of side column: insert your navigation menu, etc, here -->
+          <p> Placeholder content for the side column: please replace this with
+            your real stuff. </p>
+          <!-- end of side column: put your navigation menu, etc, above this line -->
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
